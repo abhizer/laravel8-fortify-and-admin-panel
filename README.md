@@ -15,4 +15,5 @@ Once you do that, you will need to add it to the routes file (`app/Admin/routes.
 composer update
 php artisan admin:install
 php artisan admin:publish
+php artisan storage:link
 ```
